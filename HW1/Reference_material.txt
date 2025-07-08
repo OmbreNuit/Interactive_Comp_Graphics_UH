@@ -1,0 +1,8 @@
+This document lists most of the material used to understand the topic and finish the Homework.
+
+Reading: Provided reading "Computer Graphics Principles and Practice -Foley et. al" 
+	 section 3.2 “Scan Converting Lines" and section 3.3 "Scan Converting Circles"
+YouTube: https://youtu.be/b3keFO-6F3Y?si=LOfU6owCBcNClRd2
+	 https://youtu.be/ye31xMysvJU?si=qcyqhmf7Tt2v0eUB 
+
+Desmos(to graph given ellipse equation and find a=216 & b=384): https://www.desmos.com/calculator/hbkw8gayii
