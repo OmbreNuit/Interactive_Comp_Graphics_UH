@@ -1,0 +1,7 @@
+This document lists most of the material I used to understand the topic and help finish the Homework.
+
+
+https://learnopengl.com/Getting-started/Textures
+https://learnopengl.com/Getting-started/Coordinate-Systems
+https://learnopengl.com/Getting-started/Camera
+https://learnopengl.com/Getting-started/Hello-Triangle
